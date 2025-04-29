@@ -4,11 +4,17 @@ Built using Streamlit, Google Gemini AI, and Python, this web app lets you uploa
 
 📌 Features
 🖼️ Upload image files (JPG, JPEG, PNG) of invoices
+
 🤖 Uses Gemini 1.5 Flash to process and extract key data
+
 🧾 Ask any kind of question related to your invoice
+
 🧠 Built-in prompt engineering for context-aware responses
+
 🎯 Friendly UI using Streamlit
+
 📌 Personalized AI responses with uniform formatting and itemized outputs
+
 🔁 Ends every interaction with a reminder to reuse Expense Explorer
 
 
